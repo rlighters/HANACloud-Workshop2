@@ -1,0 +1,4 @@
+**/node_modules/**
+.env*
+--If you are working on a Mac, we recommend you also add this to gitignore:
+.DS_Store
